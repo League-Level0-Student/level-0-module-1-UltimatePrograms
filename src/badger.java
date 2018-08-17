@@ -27,6 +27,6 @@ public class badger {
 		System.out.println("A " + s + ",");
 		System.out.print("Snaaake!");
 		System.out.println("Snaaake!");
-		System.out.println("Oooh, it's a snake");
+		System.out.println("Oooh, it's a "+s);
 	}
 }
